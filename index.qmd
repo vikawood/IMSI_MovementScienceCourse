@@ -1,5 +1,5 @@
 ---
-title: "IMSI_ResearchCourse"
+title: "IMSI Movement Science Course"
 ---
 
 This is a Quarto website.
