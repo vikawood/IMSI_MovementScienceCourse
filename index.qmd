@@ -1,5 +1,5 @@
 ---
-title: "IMSI Movement Sciences Course"
+title: "Welcome to the Movement Science Course Demo!"
 ---
 
 We can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.

@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IMSI Movement Sciences Course",
+    "title": "Welcome to the Movement Science Course Demo!",
     "section": "",
     "text": "We can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.\nWe could alternatively format this in a more linear book format. See an example here: https://jjallaire.github.io/hopr/dice.html\nOr more examples quarto websites and books here: https://quarto.org/docs/gallery/#websites"
   },

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "IMSI Movement Sciences Course"
+  title: "Movement Science Course Demo"
   
   navbar:
     left:
@@ -16,7 +16,7 @@ website:
       - icon: github
         href: https://github.com
       - icon: youtube
-        href: https://twitter.com
+        href: https://youtube.com
       
     
       
