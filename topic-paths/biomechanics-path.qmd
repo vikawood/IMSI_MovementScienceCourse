@@ -1,0 +1,51 @@
+---
+title: "Biomechanics"
+page-layout: article
+toc: true
+---
+
+## Welcome to Biomechanics
+
+Biomechanics is the study of...
+
+To explore this topic, we will guide you through the following modules...
+
+## Workshop #1 Title
+
+### Learning objectives
+
+1.  asdf
+2.  asdf
+3.  asdf
+
+### Video title
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zi05Kj02ZH8?si=4Qrd3w0JevnsHpcX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+***Presented by:*** *asdf*
+
+### Code snippets and other subheadings
+
+[Download demo MATLAB code](..//resources/example/HelloWorld.m)
+
+[Download a PDF](..//resources/example/How to read a scientific paper.pdf)
+
+## Workshop #2 Title
+
+### Learning objectives
+
+1.  asdf
+2.  asdf
+3.  asdf
+
+### Video title
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oF_kEXJJbjI?si=28HD3JOWjLaQPxvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+***Presented by:*** *asdf*
+
+### Code snippets and other subheadings

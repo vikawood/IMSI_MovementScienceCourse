@@ -1,11 +1,9 @@
 ---
-title: "IMSI Movement Science Course"
+title: "IMSI Movement Sciences Course"
 ---
 
-This is a Quarto website.
+We can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+We could alternatively format this in a more linear book format. See an example here: <https://jjallaire.github.io/hopr/dice.html>
 
-```{r}
-1 + 2
-```
+Or more examples quarto websites and books here: <https://quarto.org/docs/gallery/#websites>

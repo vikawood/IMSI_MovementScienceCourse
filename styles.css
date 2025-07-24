@@ -1,1 +1,11 @@
 /* css styles */
+
+.page-navigation .prev::before {
+  content: "← Previous: ";
+  font-weight: bold;
+}
+
+.page-navigation .next::after {
+  content: " :Next →";
+  font-weight: bold;
+}

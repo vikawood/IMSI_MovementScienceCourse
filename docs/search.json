@@ -2,15 +2,99 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IMSI Movement Science Course",
+    "title": "IMSI Movement Sciences Course",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 2\n\n[1] 3"
+    "text": "We can use Quarto to have a public facing website that is hosted on Github. Github can host all the code and PDF files, but videos are best hosted on YouTube.\nWe could alternatively format this in a more linear book format. See an example here: https://jjallaire.github.io/hopr/dice.html\nOr more examples quarto websites and books here: https://quarto.org/docs/gallery/#websites"
+  },
+  {
+    "objectID": "all_modules.html",
+    "href": "all_modules.html",
+    "title": "All modules",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Presenter\n        \n         \n          Complexity\n        \n         \n          Topic\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nPresenter\n\n\nComplexity\n\n\nTopic\n\n\n\n\n\n\nJoint-level work loops\n\n\nDr. GS\n\n\nintermediate\n\n\nmuscle physiology, exp design\n\n\n\n\nSensory feedback\n\n\nDr. JF, Dr. KS\n\n\nintermediate\n\n\nmotor control\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Include information about IMSI here"
+  },
+  {
+    "objectID": "all-modules/joint-level-work-loops.html",
+    "href": "all-modules/joint-level-work-loops.html",
+    "title": "Joint-level work loops",
+    "section": "",
+    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: asdf\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/joint-level-work-loops.html#learning-objectives",
+    "href": "all-modules/joint-level-work-loops.html#learning-objectives",
+    "title": "Joint-level work loops",
+    "section": "",
+    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: asdf\nYou can include links to files that are stored on the Github repo:\nDownload demo MATLAB code\nDownload a PDF\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/sensory-feedback.html",
+    "href": "all-modules/sensory-feedback.html",
+    "title": "Sensory feedback",
+    "section": "",
+    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: asdf\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "all-modules/sensory-feedback.html#learning-objectives",
+    "href": "all-modules/sensory-feedback.html#learning-objectives",
+    "title": "Sensory feedback",
+    "section": "",
+    "text": "asdf\nasdf\nasdf\n\n\n\nPresented by: asdf\nWe can include Matlab script, though it won’t show outputs:\nx = 1\ny = 2\nz = x+y\nz\nThis is an example of an R script. It will print the output:\n\nx=1\ny=2\nz = x+y\nz\n\n[1] 3"
+  },
+  {
+    "objectID": "pathways.html",
+    "href": "pathways.html",
+    "title": "Learning Pathways",
+    "section": "",
+    "text": "We’ve curated the movement science content into pathways made up of 3-5 modules that can help you get up to speed or learn about specific topics. Choose a pathway below to get started.\n(Right now the only one I’ve populated a bit to show capability is the Biomechanics pathway in the topic-based category.)"
+  },
+  {
+    "objectID": "pathways.html#topic-based-pathways",
+    "href": "pathways.html#topic-based-pathways",
+    "title": "Learning Pathways",
+    "section": "Topic-based pathways",
+    "text": "Topic-based pathways\n\n\n\n\n\n\n\n\nBiomechanics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Analysis in Movement Sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModels of Muscles and Movement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMotor Control of Movement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuscle Physiology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pathways.html#complexity-based-pathways",
+    "href": "pathways.html#complexity-based-pathways",
+    "title": "Learning Pathways",
+    "section": "Complexity-based pathways",
+    "text": "Complexity-based pathways\n\n\n\n\n\n\n\n\nAdvanced Movement Sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntermediate Movement Sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Movement Sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topic-paths/biomechanics-path.html",
+    "href": "topic-paths/biomechanics-path.html",
+    "title": "Biomechanics",
+    "section": "",
+    "text": "Biomechanics is the study of…\nTo explore this topic, we will guide you through the following modules…"
+  },
+  {
+    "objectID": "topic-paths/biomechanics-path.html#welcome-to-biomechanics",
+    "href": "topic-paths/biomechanics-path.html#welcome-to-biomechanics",
+    "title": "Biomechanics",
+    "section": "",
+    "text": "Biomechanics is the study of…\nTo explore this topic, we will guide you through the following modules…"
+  },
+  {
+    "objectID": "topic-paths/biomechanics-path.html#workshop-1-title",
+    "href": "topic-paths/biomechanics-path.html#workshop-1-title",
+    "title": "Biomechanics",
+    "section": "Workshop #1 Title",
+    "text": "Workshop #1 Title\n\nLearning objectives\n\nasdf\nasdf\nasdf\n\n\n\nVideo title\n\n\nPresented by: asdf\n\n\nCode snippets and other subheadings\nDownload demo MATLAB code\nDownload a PDF"
+  },
+  {
+    "objectID": "topic-paths/biomechanics-path.html#workshop-2-title",
+    "href": "topic-paths/biomechanics-path.html#workshop-2-title",
+    "title": "Biomechanics",
+    "section": "Workshop #2 Title",
+    "text": "Workshop #2 Title\n\nLearning objectives\n\nasdf\nasdf\nasdf\n\n\n\nVideo title\n\n\nPresented by: asdf\n\n\nCode snippets and other subheadings"
   }
 ]

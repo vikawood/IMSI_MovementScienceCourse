@@ -4,5 +4,44 @@
   },
   "about.qmd": {
     "about.html": "47e979c1"
+  },
+  "pathways.qmd": {
+    "pathways.html": "f6fb94ff"
+  },
+  "complexity-based-pathways/intro-pathway.qmd": {
+    "intro-pathway.html": "70ebeb46"
+  },
+  "all_modules.qmd": {
+    "all_modules.html": "5296eb30"
+  },
+  "topic-paths/biomechanics-path.qmd": {
+    "biomechanics-path.html": "d18a16ea"
+  },
+  "all-modules/joint-level-work-loops.qmd": {
+    "joint-level-work-loops.html": "22be26c9"
+  },
+  "complexity-paths/advanced-pathway.qmd": {
+    "advanced-pathway.html": "d0657f0f"
+  },
+  "complexity-paths/intro-pathway.qmd": {
+    "intro-pathway.html": "5287e98f"
+  },
+  "complexity-paths/intermediate-pathway.qmd": {
+    "intermediate-pathway.html": "7c9e21e5"
+  },
+  "topic-paths/motor-control-path.qmd": {
+    "motor-control-path.html": "7da8b666"
+  },
+  "topic-paths/modeling-path.qmd": {
+    "modeling-path.html": "f1e22409"
+  },
+  "topic-paths/data-analysis-path.qmd": {
+    "data-analysis-path.html": "84133a2a"
+  },
+  "topic-paths/muscle-phys-path.qmd": {
+    "muscle-phys-path.html": "f90ff63a"
+  },
+  "all-modules/sensory-feedback.qmd": {
+    "sensory-feedback.html": "a98f58a5"
   }
 }

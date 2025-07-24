@@ -1,0 +1,27 @@
+---
+title: "All modules"
+toc: false
+listing:
+  - id: all-modules
+    contents: "all-modules/*.qmd"
+    type: table
+    fields: [title, presenter, complexity, topic]
+    filter-ui: 
+     - title
+     - presenter
+     - complexity
+     - topic
+    sort-ui:
+     - title
+     - presenter
+     - complexity
+     - topic
+    field-display-names:
+      title: "Title"
+      presenter: "Presenter"
+      complexity: "Complexity"
+      topic: "Topic"
+---
+
+:::{#all-modules}
+:::

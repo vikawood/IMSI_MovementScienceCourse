@@ -3,12 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Integrated Movement Sciences Course"
+  title: "IMSI Movement Sciences Course"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - pathways.qmd
+      - all_modules.qmd
       - about.qmd
+    tools:
+      - icon: github
+        href: https://github.com
+      - icon: youtube
+        href: https://twitter.com
+      
+    
+      
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.md
 
 format:
   html:
@@ -17,6 +34,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/all_modules.html",
+    "items": [
+      "/all-modules/joint-level-work-loops.html",
+      "/all-modules/sensory-feedback.html"
+    ]
+  },
+  {
+    "listing": "/pathways.html",
+    "items": [
+      "/complexity-paths/advanced-pathway.html",
+      "/complexity-paths/intermediate-pathway.html",
+      "/complexity-paths/intro-pathway.html",
+      "/topic-paths/biomechanics-path.html",
+      "/topic-paths/data-analysis-path.html",
+      "/topic-paths/modeling-path.html",
+      "/topic-paths/motor-control-path.html",
+      "/topic-paths/muscle-phys-path.html"
+    ]
+  }
+]
